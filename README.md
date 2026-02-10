@@ -1,6 +1,6 @@
 # Conversor de Dólar para Real e Kwanza
 
-Um conversor de moeda simples e elegante que permite converter valores entre Dólar Americano (USD) e Real Brasileiro (BRL).
+Um conversor de moeda simples e elegante que permite converter valores entre Dólar Americano (USD) e Real Brasileiro (BRL). Futuramente incluirá suporte para Kwanza Angolano (AOA).
 
 ## 📋 Descrição
 
@@ -118,7 +118,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 ## 📝 Notas
 
 - O arquivo `estudar.js` contém notas e exemplos de estudo sobre JavaScript e não é usado na aplicação principal
-- O projeto menciona Kwanza no título mas atualmente só implementa conversão entre USD e BRL
+- O projeto menciona Kwanza no título, mas atualmente implementa apenas conversão entre USD e BRL. O suporte para Kwanza está planejado para versões futuras
 
 ## 🔮 Melhorias Futuras
 

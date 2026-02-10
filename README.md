@@ -2,11 +2,11 @@
 
 Um conversor de moeda simples e elegante que permite converter valores entre Dólar Americano (USD) e Real Brasileiro (BRL). Futuramente incluirá suporte para Kwanza Angolano (AOA).
 
-## 📋 Descrição
+##  Descrição
 
 Este projeto é uma aplicação web desenvolvida para realizar conversões de moeda de forma rápida e intuitiva. A interface permite inserir valores em qualquer uma das moedas e ver a conversão em tempo real.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Conversão de USD (Dólar Americano) para BRL (Real Brasileiro)
 - Conversão de BRL (Real Brasileiro) para USD (Dólar Americano)
@@ -15,13 +15,13 @@ Este projeto é uma aplicação web desenvolvida para realizar conversões de mo
 - Interface limpa e responsiva
 - Design moderno com gradiente de cores
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML5** - Estrutura da página
 - **CSS3** - Estilização e layout responsivo
 - **JavaScript** - Lógica de conversão e interatividade
 
-## 💻 Como Usar
+##  Como Usar
 
 ### Pré-requisitos
 
@@ -43,7 +43,7 @@ cd Conversor-de-dolar-para-real-e-Kwanza
 
 Ou simplesmente faça o download do código e abra o arquivo `index.html` diretamente no navegador.
 
-## 📖 Como Funciona
+##  Como Funciona
 
 1. Digite um valor no campo USD (Dólar) ou BRL (Real)
 2. A conversão será feita automaticamente no outro campo
@@ -51,7 +51,7 @@ Ou simplesmente faça o download do código e abra o arquivo `index.html` direta
 
 **Nota:** A taxa de câmbio atualmente está definida como R$ 5,10 por dólar. Para atualizar a taxa, modifique o valor da variável `dolar` no arquivo `assets/script.js`.
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 Conversor-de-dolar-para-real-e-Kwanza/
@@ -65,7 +65,7 @@ Conversor-de-dolar-para-real-e-Kwanza/
 └── README.md           # Este arquivo
 ```
 
-## 🎨 Recursos de Design
+##  Recursos de Design
 
 - Interface com gradiente de cores (azul claro para branco)
 - Campos de entrada com efeitos de foco
@@ -73,7 +73,7 @@ Conversor-de-dolar-para-real-e-Kwanza/
 - Tipografia otimizada para legibilidade
 - Sombras suaves para dar profundidade
 
-## 🔧 Personalização
+##  Personalização
 
 ### Atualizar a Taxa de Câmbio
 
@@ -97,15 +97,15 @@ Os estilos podem ser personalizados no arquivo `assets/style.css`. As variáveis
 }
 ```
 
-## 👨‍💻 Autor
+##  Autor
 
 Desenvolvido por **Arão Lubota**
 
-## 📄 Licença
+##  Licença
 
 Este projeto está disponível para uso livre.
 
-## 🤝 Contribuições
+##  Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
 
@@ -115,12 +115,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 4. Fazer push para a branch (`git push origin feature/MinhaFeature`)
 5. Abrir um Pull Request
 
-## 📝 Notas
+##  Notas
 
 - O arquivo `estudar.js` contém notas e exemplos de estudo sobre JavaScript e não é usado na aplicação principal
 - O projeto menciona Kwanza no título, mas atualmente implementa apenas conversão entre USD e BRL. O suporte para Kwanza está planejado para versões futuras
 
-## 🔮 Melhorias Futuras
+##  Melhorias Futuras
 
 - Adicionar conversão para Kwanza (AOA)
 - Integração com API de taxas de câmbio em tempo real
@@ -129,6 +129,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 - Modo escuro/claro
 - Gráfico de variação das taxas
 
----
 
-⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
+ Se este projeto foi útil para você, considere dar uma estrela no repositório!
